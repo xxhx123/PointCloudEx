@@ -11,6 +11,14 @@ int main ()
     PCL_ERROR ("Couldn't read file drill_1.6mm_0_cyb.pcd \n");
     return (-1);
   }
+
+/*
+//Read a PCLPointCloud2 blob(available only in PCL 1.x).
+  pcl::PCLPointCloud2 cloud_blob;
+  pcl::io::loadPCDFile("../test_pcd.pcd", cloud_blob);
+  pcl::fromPCLPointCloud2(cloud_blob, *cloud);//* convert from pcl/PCLPointCloud2 to pcl::PointCloud<T>
+*/
+
   std::cout << "Loaded "
             << cloud->width * cloud->height
             << " data points from drill_1.6mm_0_cyb.pcd with the following fields: "
