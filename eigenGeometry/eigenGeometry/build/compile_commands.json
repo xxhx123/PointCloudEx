@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dell/PointCloudEx/eigenGeometry/eigenGeometry/build",
+  "command": "/usr/bin/g++   -I/usr/include/eigen3  -g   -o CMakeFiles/eigenGeometry.dir/eigenGeometry.cpp.o -c /home/dell/PointCloudEx/eigenGeometry/eigenGeometry/eigenGeometry.cpp",
+  "file": "/home/dell/PointCloudEx/eigenGeometry/eigenGeometry/eigenGeometry.cpp"
+}
+]
