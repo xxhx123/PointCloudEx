@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/dell/PointCloudEx/pcdread/pcdread.cpp
+/home/dell/PointCloudEx/IO/pcdread/pcdread.cpp
 iostream
 -
 pcl/io/pcd_io.h

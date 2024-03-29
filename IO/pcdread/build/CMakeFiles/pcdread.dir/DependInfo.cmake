@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/dell/PointCloudEx/pcdread/pcdread.cpp" "/home/dell/PointCloudEx/pcdread/build/CMakeFiles/pcdread.dir/pcdread.cpp.o"
+  "/home/dell/PointCloudEx/IO/pcdread/pcdread.cpp" "/home/dell/PointCloudEx/IO/pcdread/build/CMakeFiles/pcdread.dir/pcdread.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

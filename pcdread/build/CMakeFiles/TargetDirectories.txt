@@ -1,7 +1,0 @@
-/home/dell/PointCloudEx/pcdread/build/CMakeFiles/install/strip.dir
-/home/dell/PointCloudEx/pcdread/build/CMakeFiles/edit_cache.dir
-/home/dell/PointCloudEx/pcdread/build/CMakeFiles/pcdread.dir
-/home/dell/PointCloudEx/pcdread/build/CMakeFiles/rebuild_cache.dir
-/home/dell/PointCloudEx/pcdread/build/CMakeFiles/list_install_components.dir
-/home/dell/PointCloudEx/pcdread/build/CMakeFiles/install/local.dir
-/home/dell/PointCloudEx/pcdread/build/CMakeFiles/install.dir

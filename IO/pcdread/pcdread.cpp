@@ -6,7 +6,7 @@
 int main ()
 {
   pcl::PointCloud<pcl::PointXYZ>::Ptr cloud (new pcl::PointCloud<pcl::PointXYZ>);
-  if (pcl::io::loadPCDFile<pcl::PointXYZ> ("/home/dell/PointCloudEx/pcdread/drill_1.6mm_0_cyb.pcd", *cloud) == -1) //* load the file
+  if (pcl::io::loadPCDFile<pcl::PointXYZ> ("../drill_1.6mm_0_cyb.pcd", *cloud) == -1) //* load the file
   {
     PCL_ERROR ("Couldn't read file drill_1.6mm_0_cyb.pcd \n");
     return (-1);
