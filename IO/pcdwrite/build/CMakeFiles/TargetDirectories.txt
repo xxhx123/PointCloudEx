@@ -1,7 +1,0 @@
-/home/dell/PointCloudEx/IO/pcdwrite/build/CMakeFiles/install/strip.dir
-/home/dell/PointCloudEx/IO/pcdwrite/build/CMakeFiles/edit_cache.dir
-/home/dell/PointCloudEx/IO/pcdwrite/build/CMakeFiles/pcdwrite.dir
-/home/dell/PointCloudEx/IO/pcdwrite/build/CMakeFiles/list_install_components.dir
-/home/dell/PointCloudEx/IO/pcdwrite/build/CMakeFiles/install/local.dir
-/home/dell/PointCloudEx/IO/pcdwrite/build/CMakeFiles/rebuild_cache.dir
-/home/dell/PointCloudEx/IO/pcdwrite/build/CMakeFiles/install.dir
